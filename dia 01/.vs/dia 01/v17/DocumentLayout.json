@@ -27,10 +27,6 @@
       "RelativeMoniker": "D:0:0:{E2269458-EE13-46E6-BD96-77FBA010978F}|dia 01.vcxproj|solutionrelative:namesp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2269458-EE13-46E6-BD96-77FBA010978F}|dia 01.vcxproj|C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\dia 01\\cout.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E2269458-EE13-46E6-BD96-77FBA010978F}|dia 01.vcxproj|solutionrelative:cout.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E2269458-EE13-46E6-BD96-77FBA010978F}|dia 01.vcxproj|C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\dia 01\\default.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E2269458-EE13-46E6-BD96-77FBA010978F}|dia 01.vcxproj|solutionrelative:default.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -41,6 +37,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{E2269458-EE13-46E6-BD96-77FBA010978F}|dia 01.vcxproj|C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\dia 01\\cin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E2269458-EE13-46E6-BD96-77FBA010978F}|dia 01.vcxproj|solutionrelative:cin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2269458-EE13-46E6-BD96-77FBA010978F}|dia 01.vcxproj|C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\dia 01\\cout.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E2269458-EE13-46E6-BD96-77FBA010978F}|dia 01.vcxproj|solutionrelative:cout.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E2269458-EE13-46E6-BD96-77FBA010978F}|dia 01.vcxproj|C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\dia 01\\HelloWorld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -64,7 +64,7 @@
               "RelativeDocumentMoniker": "refConst.cpp",
               "ToolTip": "C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\dia 01\\refConst.cpp",
               "RelativeToolTip": "refConst.cpp",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAC8AAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-18T06:50:58.658Z",
               "EditorCaption": ""
@@ -105,7 +105,8 @@
               "RelativeToolTip": "scope.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-18T03:17:59.491Z"
+              "WhenOpened": "2025-03-18T03:17:59.491Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -117,7 +118,8 @@
               "RelativeToolTip": "scope.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-18T03:16:04.312Z"
+              "WhenOpened": "2025-03-18T03:16:04.312Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -129,11 +131,12 @@
               "RelativeToolTip": "namesp.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-18T03:07:46.858Z"
+              "WhenOpened": "2025-03-18T03:07:46.858Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "default.cpp",
               "DocumentMoniker": "C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\dia 01\\default.cpp",
               "RelativeDocumentMoniker": "default.cpp",
@@ -141,11 +144,12 @@
               "RelativeToolTip": "default.cpp",
               "ViewState": "AgIAACEAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-18T02:26:59.12Z"
+              "WhenOpened": "2025-03-18T02:26:59.12Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "overLoading.cpp",
               "DocumentMoniker": "C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\dia 01\\overLoading.cpp",
               "RelativeDocumentMoniker": "overLoading.cpp",
@@ -153,11 +157,12 @@
               "RelativeToolTip": "overLoading.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-18T02:16:36.666Z"
+              "WhenOpened": "2025-03-18T02:16:36.666Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "cin.cpp",
               "DocumentMoniker": "C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\dia 01\\cin.cpp",
               "RelativeDocumentMoniker": "cin.cpp",
@@ -165,11 +170,12 @@
               "RelativeToolTip": "cin.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-18T01:36:04.164Z"
+              "WhenOpened": "2025-03-18T01:36:04.164Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "cout.cpp",
               "DocumentMoniker": "C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\dia 01\\cout.cpp",
               "RelativeDocumentMoniker": "cout.cpp",
@@ -177,7 +183,8 @@
               "RelativeToolTip": "cout.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-18T01:18:53.885Z"
+              "WhenOpened": "2025-03-18T01:18:53.885Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -189,7 +196,8 @@
               "RelativeToolTip": "HelloWorld.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-18T01:11:29.6Z"
+              "WhenOpened": "2025-03-18T01:11:29.6Z",
+              "EditorCaption": ""
             }
           ]
         }
