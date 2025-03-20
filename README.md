@@ -80,3 +80,16 @@ C++ 언어 학습 리포지토리
         3. 객체를 멤버로 가지는 경우
 
 - 2일차 정리 예제 : [C++](./dia%2002/2일차%20최종%20예제.cpp) 
+
+## 3일차
+- 복사 생성자(Copy Constructor)
+    - 깊은 복사
+    - 얕은 복사
+
+- 변환 생성자(Conversion Constructor)
+
+- 이동 생성자(Move Constructor)
+
+- static
+
+- 연산자 오버로딩(다중정의)(Operator)
