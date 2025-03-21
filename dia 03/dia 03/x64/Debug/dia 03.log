@@ -1,3 +1,8 @@
-﻿  operator2.cpp
-C:\Work\C++\iot-cpp-2025\dia 03\operator2.cpp(21,1): warning C4172: 지역 변수 또는 임시 의 주소를 반환하는 중
-  dia 03.vcxproj -> C:\Work\C++\iot-cpp-2025\dia 03\x64\Debug\dia 03.exe
+﻿  copyCtor.cpp
+  operator10.cpp
+  static.cpp
+  static2.cpp
+  static3.cpp
+  코드를 생성하고 있습니다...
+static3.obj : error LNK2001: 확인할 수 없는 외부 기호 "private: static int StaticTest::cnt" (?cnt@StaticTest@@0HA)
+C:\Work\C++\iot-cpp-2025\dia 03\x64\Debug\dia 03.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.

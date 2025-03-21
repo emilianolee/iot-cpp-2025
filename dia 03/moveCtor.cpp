@@ -21,7 +21,7 @@
 //
 //	return 0;
 //}
-
+//
 ///*
 //	이동 생성자(Move Constructor)2
 //	- rvalue reference 를 매개변수로 갖는 이동 생성자

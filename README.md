@@ -82,14 +82,24 @@ C++ 언어 학습 리포지토리
 - 2일차 정리 예제 : [C++](./dia%2002/2일차%20최종%20예제.cpp) 
 
 ## 3일차
-- 복사 생성자(Copy Constructor)
-    - 깊은 복사
-    - 얕은 복사
+- 복사 생성자(Copy Constructor)[C++](./dia%2003/copyCtor.cpp)
+    - 같은 클래스의 객체를 복사하여 새로운 객체를 생성하는 생성자
+    - 객체를 값으로 전달하거나, 객체를 변환하거나, 객체를 다른 객체로 초기화할 때 호출됨
+    - 기본 복사 생성자는 포인터 변수의 주소만 복사하여 원본 객체와 같은 메모리를 공유하는 문제 발생(얕은 복사 - Shallow Copy)
+    - 이를 해결하기 위해 깊은 복사(Deep Copy)를 수행하는 복사 생성자를 명시적의로 정의해야 함
 
-- 변환 생성자(Conversion Constructor)
+- 변환 생성자(Conversion Constructor)[C++](./dia%2003/convCtor.cpp)
+    - 다른 타입의 객체를 해당 클래스의 객체로 변환할 때 호출되는 생성자
+    - 단일 매개변수(입력이 한 개)를 가지며, 자동 형 변환에 사용됨
+    - explicit 키워드를 사용하여 묵시적 변환을 방지할 수 있음
 
-- 이동 생성자(Move Constructor)
+- 이동 생성자(Move Constructor)[C++](./dia%2003/moveCtor.cpp)
+    - 임시 객체(rvalue)로부터 자원을 이동하여 새로운 객체를 생성하는 생성자
+    - 기존 객체의 데이터를 복사하지 않고 이동시킴(깊은 복사보다 성능 우수)
+    - 이동 후 원본 객체는 더 이상 의미 있는 값을 가지지 않음(주로 nullptr 또는 초기화된 상태)
 
 - static
 
 - 연산자 오버로딩(다중정의)(Operator)
+
+- Banking System 만들기 [C++](./Banking%20System%20Version%201.0/BankingSystem.cpp)
