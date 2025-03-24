@@ -101,5 +101,29 @@ C++ 언어 학습 리포지토리
 - static
 
 - 연산자 오버로딩(다중정의)(Operator)
+    - C++에서 기본적으로 제공하는 연산자(+, -, *, /, =, (), <<, >>)의 동작을 사용자가 정의한 클래스에 맞게 재정의 하는 기능
+    - (::, .*, sizeof, typeid)는 불가능 
+    - 예제 1[C++](./dia%2003/operator.cpp)
+    - 예제 2[C++](./dia%2003/operator2.cpp)
+    - 예제 3[C++](./dia%2003/operator3.cpp)
+    - 전역함수 오버로딩(예제 4) [C++](./dia%2003/operator4.cpp)
+        - friend 키워드를 이용하면 private 멤버에도 접근할 수 있음
 
 - Banking System 만들기 [C++](./Banking%20System%20Version%201.0/BankingSystem.cpp)
+
+## 4일차
+- 1~3일차 정리 예제
+    1. [C++](./dia%2004/Human.cpp)
+    2. [C++](./dia%2004/Human2.cpp)
+
+- 템플릿(Template)
+
+- 인라인 함수(inline)
+
+## 5일차
+- 상속(Inheritance)
+
+- 객체 포인터(Object Pointer)
+
+- 가상 클래스
+- 스마트 포인트
