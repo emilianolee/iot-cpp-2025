@@ -135,8 +135,6 @@
     <ClCompile Include="operator3.cpp" />
     <ClCompile Include="operator4.cpp" />
     <ClCompile Include="static.cpp" />
-    <ClCompile Include="static2.cpp" />
-    <ClCompile Include="static3.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

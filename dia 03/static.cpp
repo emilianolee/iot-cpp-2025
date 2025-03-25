@@ -89,3 +89,65 @@
 //
 //	return 0;
 //}
+
+///*
+//	static3
+//	- StaticTest라는 클래스를 만드는데
+//	- 멤버변수로는 이름, 전화번호, 주소, 회원번호(cnt)를 가지고
+//	- 3개입력을 받는 생성자를 작성한다.
+//	- 회원번호는 자동으로 증가시킬 것이기 때문!
+//	- 출력 담당의 showMember() 메서드 구현
+//*/
+//#define _CRT_SECURE_NO_WARNINGS
+//#include <iostream>  
+//
+//class StaticTest {
+//private:
+//    char mname[20];  // 이름 저장 변수
+//    char mphone[20]; // 전화번호 저장 변수
+//    char madr[100];  // 주소 저장 변수
+//    int mnum;        // 개별 회원번호
+//    static int cnt;  // 회원번호 자동 증가를 위한 정적 변수
+//public:
+//    // 생성자: 이름, 전화번호, 주소를 매개변수로 받아 초기화하고, 회원번호 자동 증가 함수 호출
+//    StaticTest(const char* name, const char* phone, const char* adr) {
+//        strcpy(mname, name);   // 이름 복사
+//        strcpy(mphone, phone); // 전화번호 복사
+//        strcpy(madr, adr);     // 주소 복사
+//        cntAutoPlus();         // 회원번호 증가 함수 호출
+//        mnum = cnt;            // 증가된 회원번호를 mnum에 저장
+//    }
+//
+//    void cntAutoPlus(); // 회원번호 자동 증가 함수
+//
+//    void showMember();  // 회원 정보 출력 함수
+//};
+//
+//// 정적 변수 초기화 (회원번호는 0부터 시작, 첫 회원은 1번)
+//int StaticTest::cnt = 0;
+//
+//// 회원번호 증가 함수 구현
+//void StaticTest::cntAutoPlus() {
+//    cnt++; // 회원번호 증가
+//}
+//
+//// 회원 정보 출력 함수 구현
+//void StaticTest::showMember() {
+//    std::cout << "회원번호: " << mnum << std::endl;  // 현재 회원번호 출력
+//    printf("이름: %s, 전화번호: %s, 주소: %s\n", mname, mphone, madr); // 회원 정보 출력
+//}
+//
+//// main 함수: 프로그램 실행 시작
+//int main()
+//{
+//    StaticTest m1("홍길동", "010-1111-1111", "부산");
+//    m1.showMember();  // 회원 정보 출력
+//
+//    StaticTest m2("김영희", "010-2222-2222", "서울");
+//    m2.showMember();  // 회원 정보 출력
+//
+//    StaticTest m3("김철수", "010-3333-3333", "대전");
+//    m3.showMember();  // 회원 정보 출력
+//
+//    return 0;  // 프로그램 정상 종료
+//}
