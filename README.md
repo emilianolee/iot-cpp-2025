@@ -148,3 +148,4 @@ C++ 언어 학습 리포지토리
 - 임시객체(Temporary Object)
 
 - 스마트 포인트(Smart Point)
+    1. unique_ptr
