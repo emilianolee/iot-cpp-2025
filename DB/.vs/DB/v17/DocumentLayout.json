@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\DB\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F6767A6C-C3DD-4F8D-A629-74173608C25D}|DB.vcxproj|C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\DB\\DB2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6767A6C-C3DD-4F8D-A629-74173608C25D}|DB.vcxproj|solutionrelative:DB2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F6767A6C-C3DD-4F8D-A629-74173608C25D}|DB.vcxproj|C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\DB\\DB.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F6767A6C-C3DD-4F8D-A629-74173608C25D}|DB.vcxproj|solutionrelative:DB.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,15 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DB2.cpp",
+              "DocumentMoniker": "C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\DB\\DB2.cpp",
+              "RelativeDocumentMoniker": "DB2.cpp",
+              "ToolTip": "C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\DB\\DB2.cpp",
+              "RelativeToolTip": "DB2.cpp",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwCUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T00:32:48.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "DB.cpp",
               "DocumentMoniker": "C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\DB\\DB.cpp",
               "RelativeDocumentMoniker": "DB.cpp",
               "ToolTip": "C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\DB\\DB.cpp",
               "RelativeToolTip": "DB.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBUAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-25T07:57:33.85Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T00:22:10.081Z"
             }
           ]
         }
