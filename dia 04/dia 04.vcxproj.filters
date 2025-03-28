@@ -21,28 +21,10 @@
     <ClCompile Include="Human2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="inline.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="inline2.cpp">
+    <ClCompile Include="inlineMacro.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="template.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="template2.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="template3.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="template4.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="template5.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="template6.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

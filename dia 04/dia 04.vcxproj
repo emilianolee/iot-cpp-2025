@@ -129,14 +129,8 @@
   <ItemGroup>
     <ClCompile Include="Human.cpp" />
     <ClCompile Include="Human2.cpp" />
-    <ClCompile Include="inline.cpp" />
-    <ClCompile Include="inline2.cpp" />
+    <ClCompile Include="inlineMacro.cpp" />
     <ClCompile Include="template.cpp" />
-    <ClCompile Include="template2.cpp" />
-    <ClCompile Include="template3.cpp" />
-    <ClCompile Include="template4.cpp" />
-    <ClCompile Include="template5.cpp" />
-    <ClCompile Include="template6.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
