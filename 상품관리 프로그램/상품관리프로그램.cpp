@@ -37,6 +37,7 @@ public:
     };
 };
 
+// HandPhone 클래스(자식 클래스)
 class HandPhone : public Product {
 private:
     string phoneName;
@@ -52,6 +53,7 @@ public:
     }
 };
 
+// Computer 클래스(자식 클래스)
 class Computer : public Product {
 private:
     string comName;
